@@ -6,7 +6,6 @@
 Одностраничный адаптивный сайт, собранный по макету Figma.
 
 ### _Реализация:_ ###
-![html](https://cdn.mywebicons.ru/i/webp/298866093270ab88357d2f606a240c84.webp)![css](https://cdn.mywebicons.ru/i/webp/d32b47dda919886bf12b4a4f1ee054e2.webp)
 
 - Grid Layout
 - Flexbox-вёрстка
