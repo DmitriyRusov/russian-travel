@@ -1,10 +1,8 @@
 .places__place {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(320px, max-content));
-
   column-gap: 40px;
   row-gap: 48px;
-
   margin-bottom: 80px;
 }
 
@@ -17,7 +15,6 @@
 @media screen and (max-width: 800px) {
   .places__place {
     column-gap: 28px;
-
     margin-bottom: 72px;
   }
 }
@@ -25,7 +22,6 @@
 @media screen and (max-width: 500px) {
   .places__place {
     row-gap: 32px;
-
     margin-bottom: 50px;
   }
 
