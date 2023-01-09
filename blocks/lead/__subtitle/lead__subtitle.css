@@ -1,14 +1,10 @@
 .lead__subtitle {
   max-width: 640px;
-
-  font-family: "Inter";
   font-style: normal;
   font-weight: 400;
   font-size: 30px;
   line-height: 1.2;
-
   text-align: center;
-
   margin: 0 0 64px 0;
 }
 
@@ -21,10 +17,8 @@
 @media screen and (max-width: 600px) {
   .lead__subtitle {
     max-width: 288px;
-
     font-size: 16px;
     line-height: 1.25;
-
     margin-bottom: 40px;
   }
 }

@@ -1,12 +1,9 @@
 .places__paragraph {
-  font-family: "Inter";
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
   line-height: 1.63;
-
   color: #ffffff;
-
   margin: 0 0 26px;
 }
 
@@ -17,18 +14,14 @@
 @media screen and (max-width: 800px) {
   .places__paragraph {
     font-size: 16px;
-
-    line-height: 1.6;
-
+    line-height: 1.63;
     margin-bottom: 25px;
   }
 }
 
 @media screen and (max-width: 500px) {
   .places__paragraph {
-    font-size: 16px;
-    line-height: 1.63;
-
     padding-left: 10px;
+    line-height: 1.63;
   }
 }
