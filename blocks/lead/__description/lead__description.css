@@ -1,4 +1,4 @@
-.lead__descripton {
+.lead__description {
   font-style: normal;
   font-weight: 400;
   font-size: 10px;
@@ -10,13 +10,13 @@
 }
 
 @media screen and (max-width: 1000px) {
-  .lead__descripton {
+  .lead__description {
     margin-left: 24px;
   }
 }
 
 @media screen and (max-width: 400px) {
-  .lead__descripton {
+  .lead__description {
     margin-left: 16px;
   }
 }
